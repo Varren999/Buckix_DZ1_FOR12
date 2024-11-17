@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\varre\\source\\repos\\Buckix_DZ1_FOR12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{505FB2EF-FAC9-4CE0-BBF5-9C35F6AF69F0}|Buckix_DZ1_FOR12\\Buckix_DZ1_FOR12.csproj|c:\\users\\varre\\source\\repos\\buckix_dz1_for12\\buckix_dz1_for12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505FB2EF-FAC9-4CE0-BBF5-9C35F6AF69F0}|Buckix_DZ1_FOR12\\Buckix_DZ1_FOR12.csproj|solutionrelative:buckix_dz1_for12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\varre\\source\\repos\\Buckix_DZ1_FOR12\\Buckix_DZ1_FOR12\\Program.cs",
+              "RelativeDocumentMoniker": "Buckix_DZ1_FOR12\\Program.cs",
+              "ToolTip": "C:\\Users\\varre\\source\\repos\\Buckix_DZ1_FOR12\\Buckix_DZ1_FOR12\\Program.cs",
+              "RelativeToolTip": "Buckix_DZ1_FOR12\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:59:53.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
